@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>161.jpg</filename>
+	<path>/home/ostap/Documents/project/ImageWork/Beta1/tabak/downloads/image/161.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sigaretta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>151</ymin>
+			<xmax>328</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>
