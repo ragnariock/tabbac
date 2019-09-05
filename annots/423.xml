@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>423.jpg</filename>
+	<path>/home/ostap/Documents/project/ImageWork/Beta1/tabak/countinue/image/423.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1040</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sigaretta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>370</ymin>
+			<xmax>491</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>
